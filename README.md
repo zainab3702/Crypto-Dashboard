@@ -1,6 +1,6 @@
 # Crypto-Dashboard
 
-![crypto](https://github.com/Belalirshad/AB-Crypto-Dashboard/assets/101103105/a565284f-8765-48d7-973c-0be0d28a096f)
+![crypto](https://github.com/zainab3702/Crypto-Dashboard/assets/101103105/a565284f-8765-48d7-973c-0be0d28a096f)
 
 ## 1. Introduction
 
@@ -52,7 +52,7 @@ This project is a Cryptocurrency Dashboard built using React. The dashboard allo
 
 1. Clone the repository to your local machine.
 
-   git clone https://github.com/Belalirshad/AB-Crypto-Dashboard
+   git clone https://github.com/zainab3702/Crypto-Dashboard
 
 2. Install dependencies by running npm install.
 
