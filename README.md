@@ -1,6 +1,6 @@
 # Crypto-Dashboard
 
-![crypto](https://github.com/zainab3702/Crypto-Dashboard/assets/101103105/a565284f-8765-48d7-973c-0be0d28a096f)
+![Screenshot 2024-02-08 230521](https://github.com/zainab3702/Crypto-Dashboard/assets/144930831/4afdfdb5-a1c7-4fdd-80b2-4a73b6d6b651)
 
 ## 1. Introduction
 
